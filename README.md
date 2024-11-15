@@ -65,12 +65,6 @@ Pengguna dapat melihat peta digital yang menampilkan:
 - **Antarmuka yang Ramah Pengguna:** Desain sederhana dan mudah digunakan.
 - **Efisiensi Pengelolaan Data:** Pembaruan data yang cepat dan akurat.
 
-## Cara Instalasi
-
-1. **Clone Repositori:**
-   ```bash
-   git clone https://github.com/username/repo-name.git
-   ```
 
 ![Home page](image.png)
 
